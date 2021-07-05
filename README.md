@@ -1,4 +1,4 @@
-# sumati-DH100
+# Oh My Lorde | sumati-DH100 Final Project 
 
 # Introduction 
 Growing up listening to Lorde, I’ve found myself drawn to her music and have decided to delve into her lyrics for my project. I will be discovering her most commonly used lyrics in both Pure Heroin and Melodrama as well as drawing positive or negative sentiments from her work. Finally, I’ll be looking at the frequency of some of the words used within the albums
